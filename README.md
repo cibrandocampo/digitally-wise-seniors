@@ -11,11 +11,11 @@ The games are opensource games with free licenses obtained from different reposi
 
 | GAME | REPOSITORY |
 | ------ | ------ |
-| Ohh1 | [https://github.com/florisluiten/0hh1][PlDb] |
-| 2048 | [https://github.com/gabrielecirulli/2048][PlGh] |
-| BreakLock | [https://github.com/maxwellito/breaklock][PlGd] |
-| Hextris | [https://github.com/Hextris/hextris][PlOd] |
-| Simon Says | [https://github.com/KrisTarling/simon-says][PlMe] |
+| Ohh1 | https://github.com/florisluiten/0hh1 |
+| 2048 | https://github.com/gabrielecirulli/2048 |
+| BreakLock | https://github.com/maxwellito/breaklock |
+| Hextris | https://github.com/Hextris/hextris |
+| Simon Says | https://github.com/KrisTarling/simon-says |
 
 ## Features
 
